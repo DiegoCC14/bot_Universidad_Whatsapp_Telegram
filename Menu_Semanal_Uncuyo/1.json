@@ -1,0 +1,63 @@
+{
+  "5": [
+    {
+      "Texto_Menu": "Ensalada de lechuga y tomate. Pollo al horno con puré de batatas. Fruta",
+      "Fecha": "5 Lunes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/pollo-al-limon3_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de lechuga y tomate. Canastitas de choclo. Fruta",
+      "Fecha": "5 Lunes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/cana_800_900.jpg"
+    }
+  ],
+  "6": [
+    {
+      "Texto_Menu": "Ensalada de legumbres. Tarta de espinaca y queso. Fruta",
+      "Fecha": "6 Martes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/tarta-de-acelga16_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de legumbres. Tarta de espinaca y queso. Fruta",
+      "Fecha": "6 Martes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/tarta-de-acelga16_800_900.jpg"
+    }
+  ],
+  "7": [
+    {
+      "Texto_Menu": "Ensalada de remolacha y zanahoria. Moldeado de carne. Fruta",
+      "Fecha": "7 Miércoles",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/pan-de-carne13_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de remolacha y zanahoria. Torrejas de papas con ricota. Fruta ",
+      "Fecha": "7 Miércoles",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/torre_800_900.jpg"
+    }
+  ],
+  "8": [
+    {
+      "Texto_Menu": "Ensalada de zanahoria y choclo. Lasagna con salsa roja. Fruta",
+      "Fecha": "8 Jueves",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/lasagna-jamon6_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de zanahoria y choclo. Lasagna con salsa roja. Fruta",
+      "Fecha": "8 Jueves",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/lasagna-verduras5_800_900.jpg"
+    }
+  ],
+  "9": [
+    {
+      "Texto_Menu": "Ensalada de repollo y lechuga. Medallón de merluza con arroz Tres Delicias. Fruta",
+      "Fecha": "9 Viernes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/merluza_800_900.png"
+    },
+    {
+      "Texto_Menu": "Ensalada de repollo y lechuga. Hamburguesa vegetariana con arroz Tres Delicias. Fruta",
+      "Fecha": "9 Viernes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/hamburguesa-vegana2_800_900.jpg"
+    }
+  ],
+  "Fecha_Generacion": "2022-09-12 00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "12": [
+    {
+      "Texto_Menu": "Ensalada de lechuga y zanahoria. Ravioles con salsa de zanahoria y queso. Fruta",
+      "Fecha": "12 Lunes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/raviole-zanahoria_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de lechuga y zanahoria. Ravioles con salsa de zanahoria y queso. Fruta",
+      "Fecha": "12 Lunes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/raviole-zanahoria1_800_900.jpg"
+    }
+  ],
+  "13": [
+    {
+      "Texto_Menu": "Ensalada de lechuga y rúcula. Pizza con jamón. Fruta",
+      "Fecha": "13 Martes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/pizzaconjamoncocido_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de lechuga y rúcula. Pizza. Fruta",
+      "Fecha": "13 Martes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/pizza-variedades24_800_900.jpg"
+    }
+  ],
+  "14": [
+    {
+      "Texto_Menu": "Puré de papa. Milanesa de carne con limón. Fruta",
+      "Fecha": "14 Miércoles",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/milanesas-de-pollo14_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Puré de papa.  Hamburguesa vegetariana con salsa de zanahoria. Fruta",
+      "Fecha": "14 Miércoles",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/hamburguesa-de-alubia10_800_900.png"
+    }
+  ],
+  "15": [
+    {
+      "Texto_Menu": "Ensalada de zanahoria y huevo cocido. Pastel de queso y espinaca. Fruta",
+      "Fecha": "15 Jueves",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/pasteldeespinacasyqueso68693600square_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de zanahoria y huevo cocido. Pastel de queso y espinaca. Fruta",
+      "Fecha": "15 Jueves",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/pasteldeespinacasyqueso68693600square_800_900.jpg"
+    }
+  ],
+  "16": [
+    {
+      "Texto_Menu": "Ensalada de lechuga y zanahoria. Guiso de arroz con carne y chorizo. Fruta",
+      "Fecha": "16 Viernes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/guiso-de-carne-y-legumbres-casero6_800_900.jpg"
+    },
+    {
+      "Texto_Menu": "Ensalada de lechuga y zanahoria. Guiso de arroz con lentejas. Fruta",
+      "Fecha": "16 Viernes",
+      "Imagen": "https://www.uncuyo.edu.ar/bienestar/cache/guiso-de-lentejas_800_900.jpg"
+    }
+  ],
+  "Fecha_Generacion": "2022-09-12 20:57"
+}
